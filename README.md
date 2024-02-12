@@ -1,3 +1,3 @@
-# IBM_DataAnalyst_Capstone_Project
+# Demographics_Survey_Coding_Languages
 
-Cognos Dashboard for IBM DAaa Analyst Capstone Project
+Cognos Dashboard for Demographics Survey conducted for Coding Languages used around the world
